@@ -1,7 +1,7 @@
-# Get Real Data From WIKI,AMAZON,FB,APPLE.
+# Get Real Data From Google.
 
 This Program work very simple takes data from various platflom and display it, what you do with the data is totaly upon your Code.
-This is the version One of the Layers for my Main project Intelligence.Tofind more About my project click Here https://github.com/JuliasBright/intelligence. Infused with various importations Here are some Required 
+.Tofind more About my project click Here https://github.com/JuliasBright/intelligence. Infused with various importations Here are some Required 
 
 ## Getting Started
 
@@ -58,7 +58,7 @@ On Mac-
 
 Once you have the dependencies mentioned above installed, you should be good to run the program.Please note you can run or open this file at any programming module of your choice. In order to do so, open the command terminal, navigate to the project folder and use the following command-
 
-  python Wiki-amazon-fb.py
+  python googleprediction.py
 
 ## Built With
 
