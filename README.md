@@ -1,7 +1,7 @@
 # Get Real Data From Google.
 
 This Program work very simple takes data from various platflom and display it, what you do with the data is totaly upon your Code.
-.Tofind more About my project click Here https://github.com/JuliasBright/intelligence. Infused with various importations Here are some Required 
+.Tofind more About my project click Here https://github.com/JuliasBright. Infused with various importations Here are some Required 
 
 ## Getting Started
 
@@ -12,9 +12,13 @@ These instructions will get you a copy of the project up and running on your loc
 This program utilizes a few packages to successfully scrape data. To run this program, install the following packages with the instructions below. Note: Open the command terminal, navigate to the project directory and then run the commands mentioned below-
 
 What things you need to install the software and how to install them
+
 1.quandl,,,,, To get quandl click here https://quandl.com.
+
 2.Numpy,,,,,  To get quandl click here https://numpy.org.
+
 3.SkLearn,,,, To get Sklearn click here https://scikit-learn.org/stable/
+
 
 
 ### Installing
@@ -58,7 +62,7 @@ On Mac-
 
 Once you have the dependencies mentioned above installed, you should be good to run the program.Please note you can run or open this file at any programming module of your choice. In order to do so, open the command terminal, navigate to the project folder and use the following command-
 
-  python googleprediction.py
+  python google-prediction.py
 
 ## Built With
 
@@ -69,7 +73,7 @@ Once you have the dependencies mentioned above installed, you should be good to 
 
 ## Authors
 
-* **Julius Bright** - *Initial work* - [ https://github.com/JuliasBright/intelligence]
+* **Julius Bright** - *Initial work* - [ https://github.com/JuliasBright]
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
